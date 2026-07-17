@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gaijin Blog</title>
+    <link>https://gaijin.blog/ja/categories/guide/</link>
+    <description>ほぼ日本。あとは、思ったこと。</description>
+    <generator>Hugo 0.164.0</generator>
+    <language>ja</language><lastBuildDate>Fri, 10 Jul 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gaijin.blog/ja/categories/guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>こんにちは、Gaijin</title>
+      <link>https://gaijin.blog/ja/p/hello-gaijin/</link>
+      <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
+      <guid>https://gaijin.blog/ja/p/hello-gaijin/</guid>
+      <description>始めるのが一番難しいなら、さあ始めよう。</description>
+    </item>
+  </channel>
+</rss>

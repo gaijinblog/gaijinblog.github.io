@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+		<sitemap>
+			<loc>https://gaijin.blog/en/sitemap.xml</loc>
+			
+				<lastmod>2026-07-10T12:00:00+00:00</lastmod>
+			
+		</sitemap>
+	
+		<sitemap>
+			<loc>https://gaijin.blog/pt-br/sitemap.xml</loc>
+			
+				<lastmod>2026-07-10T12:00:00+00:00</lastmod>
+			
+		</sitemap>
+	
+		<sitemap>
+			<loc>https://gaijin.blog/ja/sitemap.xml</loc>
+			
+				<lastmod>2026-07-10T12:00:00+00:00</lastmod>
+			
+		</sitemap>
+	
+</sitemapindex>
